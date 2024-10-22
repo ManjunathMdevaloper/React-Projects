@@ -1,0 +1,30 @@
+.day{
+    /* text-align: center;
+    font-size: 30px;
+    background: skyblue;
+    padding: 10px 0; */
+    height: 10vh;
+    width: 20vw;
+   margin: auto;
+    border: solid 2px blueviolet;
+    box-shadow: inset 1px 1px 10px blueviolet;
+    border-radius: 10vh;
+    /* margin-top: 20px; */
+
+}
+.daynight button{
+    border: solid 2px black;
+    width: 50%;
+    height: 100%;
+    box-shadow: inset 1px 1px 10px red;
+    transition: all 0.5s;
+    cursor: pointer ;
+}
+.daynight .right{
+   
+    margin-left: 50%;
+    border-radius:0vw 10vh 10vh 0vw ;
+}
+.daynight .left{
+    border-radius: 10vh 0 0 10vh;
+}

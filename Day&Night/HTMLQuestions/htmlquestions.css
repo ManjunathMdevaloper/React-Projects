@@ -1,0 +1,19 @@
+    .block button{
+        display: block;
+        margin: auto;
+        width: 40vw;
+        padding: 10px;
+        margin-bottom: 20px;
+        cursor: pointer;
+        background: linear-gradient(rgb(91, 140, 255),rgba(31, 255, 31, 0.398),white);
+        border: none;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+    .block button p{
+        color: rgb(19, 7, 254);
+        font-weight: bold;
+    }
+    .block{
+        border: 1px solid black;
+    }
